@@ -1,0 +1,7 @@
+# Secrets — never commit these
+.env
+.mcp.json
+
+# Claude Code internals
+.claude/
+memory/
